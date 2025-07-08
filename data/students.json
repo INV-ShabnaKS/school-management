@@ -1,0 +1,18 @@
+[
+    {
+        "Name": "anu",
+        "Regno": "REG-2025-0987",
+        "Age": 19,
+        "Email": "hail@gmail.com",
+        "Phoneno": "1234567819",
+        "Courses": "BCA"
+    },
+    {
+        "Name": "arya",
+        "Regno": "reg-2222-2222",
+        "Age": 19,
+        "Email": "abc@gmail.com",
+        "Phoneno": "9946295908",
+        "Courses": "MCA"
+    }
+]
